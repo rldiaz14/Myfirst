@@ -12,7 +12,7 @@ public class MyFirst {
 
     /**
      * @param args the command line arguments
-     * Greek Alphabet oe
+     * Greek Alphabet 
      */
     public static void main(String[] args) {
        for (char  c = 0x0370; c <= 0x03FF; c++)
